@@ -1,0 +1,15 @@
+body{
+    color:red;
+    background-image: url("face.jfif");
+    background-size: cover;
+}
+#camera
+{
+border: 2px dashed black;
+width: 350px;
+height: 300px;
+}
+.name_of_objects, #result_object_name , #result_object_accurac
+{
+color:red;
+}
